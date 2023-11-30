@@ -70,19 +70,19 @@ main {
 }
 
 .header__title {
-    color: #222;
+    color: red;
     font-size: 48px;
     font-weight: 900;
 }
 
 .header__text {
-    color: #222;
+    color: red;
     font-size: 32px;
     font-weight: 700;
 }
 
 .header__text--coral {
-    color: #F16D7F;
+    color: red;
 }
 
 .top {
